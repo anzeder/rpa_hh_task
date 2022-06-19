@@ -1,0 +1,3638 @@
+
+-------------------
+
+id(0) Senior Python Developer
+id(0) ТОО MyCar Group
+Алматы,Алатау, улица Абиша Кекильбайулы, 34
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(1) Backend Developer (Python)
+id(1) ТОО FREEDOM MOBILE
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(2) Full-Stack Developer (Python) программист-разработчик
+id(2) ТОО King coffee service
+Алматы   
+от 200 000 KZT
+Remote job
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Частичная занятость,удаленная работа
+Возможна подработка:сменами по 4-6 часов
+No Temp
+
+-------------------
+
+-------------------
+
+id(3) Database application developer
+id(3) ИП Солоневич Д. А.
+Алматы   
+1 500 – 2 300 EUR
+Remote job
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(4) Middle/Middle+ Python Developer
+id(4) Wemakefab
+Алматы   
+1 700 – 3 500 USD
+Not remote
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(5) Junior +/Middle Backend Разработчик (Python, Django)
+id(5) ТОО Учёт. Бухгалтерия
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(6) Python/Django Web Developer (Remote)
+id(6) Soshace
+Алматы   
+4 000 – 6 000 USD
+Remote job
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(7) Backend Jun+ / Middle разработчик (Python/Node.js)
+id(7) ТОО GLOBAL Innotion
+Алматы, улица Бекхожина, 15А
+300 000 – 800 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(8) Python разработчик
+id(8) ТОО НОВАРДИС КОНСАЛТИНГ
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(9) Backend-разработчик/Python
+id(9) ТОО Wisk Telecom Solutions
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(10) Data Analyst - Metasearch
+id(10) KIVORK
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,удаленная работа
+No Part
+Возможно временное оформление: договор услуг, подряда, ГПХ, самозанятые, ИП
+
+-------------------
+
+-------------------
+
+id(11) Data Аналитик
+id(11) АО Aitas KZ
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+Возможно временное оформление: договор услуг, подряда, ГПХ, самозанятые, ИП
+
+-------------------
+
+-------------------
+
+id(12) Backend- разработчик
+id(12) ТОО Real Soft
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(13) Разработчик
+id(13) Евразийский банк, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(14) Middle Python Developer в команду сбора
+id(14) ТОО EA Group Holding
+Алматы, проспект Аль-Фараби, 17к4Б
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(15) QA-инженер
+id(15) ТОО Relog.kz
+Алматы   
+400 000 – 700 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(16) Senior ML Engineer (ASR)
+id(16) ИП Николаев Артем Николаевич
+Алматы   
+4 000 – 5 000 USD
+Remote job
+Trusted Employer
+not hr
+No Resume
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+Возможно временное оформление: договор услуг, подряда, ГПХ, самозанятые, ИП
+
+-------------------
+
+-------------------
+
+id(17) Data Scientist в направление Big Data и CVM
+id(17) Кселл, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(18) Senior Python Developer
+id(18) DataArt
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(19) Продуктовый аналитик (Middle)
+id(19) ООО Виэйинтеллидженс
+Алматы   
+от 100 000 руб.
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(20) Junior DeVOps Engineer
+id(14) ТОО EA Group Holding
+Алматы, проспект Аль-Фараби, 17к4Б
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(21) Backend разработчик
+id(20) ТОО ROI Group
+Алматы   
+200 000 – 300 000 KZT
+Remote job
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(22) Разработчик Python
+id(21) Тинькофф
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(23) Python Developer
+id(22) Advanced People Solutions
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(24) Data Engineer
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(25) Backend Разработчик (Python Django)
+id(24) ИП BILIM WAY (Нурлы)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(26) Senior Backend-разработчик
+id(15) ТОО Relog.kz
+Алматы,Абая, проспект Назарбаева, 223блок2А
+до 1 500 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(27) Программист по обеспечению качества ПО
+id(25) ТОО Suretter Software (Суреттер Софтваре)
+Алматы,Байконур, бульвар Бухар Жырау, 33
+300 000 – 550 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(28) Senior Python Developer в команду сбора
+id(14) ТОО EA Group Holding
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(29) Data scientist (Middle)
+id(26) АО TECHNODOM Operator (Технодом Оператор)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+No Resume
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(30) IT Интерн (техническая поддержка)
+id(27) АО Народный банк Казахстана
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Стажировка,гибкий график
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(31) Главный IT специалист
+id(28) HALYK FINANCE, дочерняя организация АО Народный банк
+Алматы,Алатау, проспект Абая, 109В
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(32) Разработчик RPA (Python)
+id(27) АО Народный банк Казахстана
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(33) Разработчик / программист (сбор данных, парсинг)
+id(29) Трошина Валентина
+Алматы   
+No Salary
+Remote job
+Not trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,удаленная работа
+Возможна подработка:сменами по 4-6 часов или по вечерам
+Возможно временное оформление: договор услуг, подряда, ГПХ, самозанятые, ИП
+
+-------------------
+
+-------------------
+
+id(34) Python Developer, Payment Solutions
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(35) Data Scientist
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы, улица Желтоксан, 115
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(36) Data Analyst в направление Data Office
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(37) Программист PYTHON / Программист алгоритмист
+id(30) ТОО Steps AI
+Алматы, улица Навои, 74
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(38) Python Developer в SuperApp
+id(17) Кселл, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(39) ML- Developer (Python)
+id(31) ТОО Транспортный холдинг города Алматы
+Алматы, улица Сатпаева, 30/8
+от 750 000 KZT
+Not remote
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,гибкий график
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(40) Python Developer
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(41) Middle/Senior Data engineer
+id(32) Kaspi Bank, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(42) Middle Python Developer for CloudLinux OS [Remote]
+id(33) Cloud Linux
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(43) NLP Engineer
+id(34) ТОО УМНЫЕ ГОРОДА
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(44) Риск-менеджер/Data Scientist
+id(35) АО Банк ЦентрКредит
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(45) Middle/Senior Data Scientist
+id(36) АО ForteBank
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(46) Backend developer (Python)
+id(37) ТОО Click Logistics
+Алматы   
+от 300 000 KZT
+Remote job
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(47) Разработчик Big Data
+id(38) Beeline, ТМ
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(48) Python developer
+id(39) Chocofamily
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(49) Data-инженер
+id(40) Kolesa Group
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(50) Senior Python Developer
+id(41) ТОО Prime Source
+Алматы, улица Кажымукана, 22/5
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(51) Data Engineer
+id(42) Improvado
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(52) Team Lead Python в SuperApp
+id(17) Кселл, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(53) Senior Python Developer
+id(43) Новео
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(54) Python Developer
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(55) MLOps Backend-разработчик
+id(40) Kolesa Group
+Алматы, улица Шевченко, 157Б
+800 000 – 1 200 000 KZT
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(56) Python/Full-Stack Engineer, Health Insurance
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(57) Data аналитик/Риск-менеджер
+id(35) АО Банк ЦентрКредит
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(58) Middle Data Engineer/Команда Подготовки онлайн данных
+id(32) Kaspi Bank, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(59) Python RPA Developer
+id(44) Частная компания Python RPA Ltd.
+Алматы   
+150 000 – 150 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(60) QA Engineer
+id(45) ИП КАПТАГАЕВ М.Т
+Алматы   
+1 000 – 2 500 USD
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(61) Python разработчик (ментор)
+id(46) ТОО itcbootcamp ( айтисибууткэмп)
+Алматы   
+130 000 – 180 000 KZT
+Not remote
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Частичная занятость,сменный график
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(62) Data Scientist
+id(47) ТОО Effective Media Liaison
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(63) Integration Engineer/DevOps Engineer
+id(48) ТОО Софит Ко
+Алматы   
+от 250 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(64) Go Developer
+id(49) ООО Solutions Factory Consulting
+Алматы   
+от 720 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(65) Аналитик (Data Science)
+id(32) Kaspi Bank, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(66) Продуктовый аналитик
+id(22) Advanced People Solutions
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(67) Senior Data Engineer
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(68) Senior Python Developer, Cloud Service Business Solutions
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(69) Стажер Backend разработчик (Junior, intern)
+id(7) ТОО GLOBAL Innotion
+Алматы, улица Бекхожина, 15А
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(70) QA Manual инженер / стажер
+id(50) ЧК ITS PARTNER LTD.
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Стажировка,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(71) Аналитик (Data Analyst)
+id(51) АО Jusan Bank
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(72) Senior Data Engineer, Health Insurance
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(73) Senior Go Developer
+id(49) ООО Solutions Factory Consulting
+Алматы   
+от 1 000 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+более 6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(74) Web-аналитик
+id(52) ТОО NetBet (НэтБэт)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(75) Аналитик стратегии сбора
+id(53) ТОО МФО ОнлайнКазФинанс (ТМ Solva)
+Алматы   
+от 500 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(76) Head of Analytics
+id(10) KIVORK
+Кишинёв, бульвар Константин Негруцци, 4/3
+No Salary
+Remote job
+Trusted Employer
+not hr
+No Resume
+более 6 лет
+Полная занятость,удаленная работа
+No Part
+Возможно временное оформление: договор услуг, подряда, ГПХ, самозанятые, ИП
+
+-------------------
+
+-------------------
+
+id(77) Аналитик CVM
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы, улица Желтоксан, 115
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(78) Middle/Senior Go Developer
+id(54) ТОО One technologies
+Алматы, улица Тажибаевой, 155
+350 000 – 1 300 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(79) Data Engineer (Azure), Asset Management Solutions
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(80) Разработчик корпоративных web-приложений
+id(55) ТОО ICORE-Integration
+Байконур,Алматы, бульвар Бухар Жырау, 27/5
+No Salary
+Not remote
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(81) Middle System Administrator
+id(56) ТОО Интернет-компания PS
+Алматы,Жибек Жолы, улица Макатаева, 117А
+500 000 – 1 000 000 KZT
+Not remote
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(82) Software Development Engineer in Test (SDET)
+id(50) ЧК ITS PARTNER LTD.
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(83) Бизнес-аналитик
+id(57) ТОО Филип Моррис Казахстан
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(84) Junior / Senior Consultant, Data Sciencist, Technology Consulting Group
+id(58) ТОО KPMG
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(85) Lead Flutter Developer
+id(59) Intetics
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+более 6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(86) Специалист службы технической поддержки
+id(60) ТОО ATLANT payments
+Алматы   
+250 000 – 350 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+Возможно временное оформление: договор услуг, подряда, ГПХ, самозанятые, ИП
+
+-------------------
+
+-------------------
+
+id(87) Ведущий разработчик Департамента развития и поддержки информационных систем
+id(61) АО Жилищный строительный сберегательный банк Отбасы банк
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(88) MDM аналитик (специалист по управлению данными)
+id(11) АО Aitas KZ
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+Возможно временное оформление: договор услуг, подряда, ГПХ, самозанятые, ИП
+
+-------------------
+
+-------------------
+
+id(89) Бэк-енд разработчик
+id(62) АО Сәтті Жұлдыз
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(90) Старший инженер (Отдел контроля качества сервисов и локальных решений)
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы, проспект Гагарина, 272
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(91) Frontend-разработчик
+id(62) АО Сәтті Жұлдыз
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(92) VP / Vice President of Engineering
+id(42) Improvado
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+более 6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(93) Старший Специалист в Отдел рисков и контроля
+id(17) Кселл, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(94) Ведущий администратор систем биллинга
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы, улица Желтоксан, 115
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(95) Software Engineer, Communication Services
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(96) Intersystems Cache / IRIS developer, Investment Management Solution
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(97) Middle QA Engineer
+id(63) Playrix
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(98) Senior QA Engineer
+id(63) Playrix
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(99) Старший эксперт по анализу BI
+id(38) Beeline, ТМ
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(100) Программист
+id(64) ТОО Caspian Offshore Construction Realty
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(101) Senior QA Automation
+id(42) Improvado
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(102) Java Middle разработчик
+id(14) ТОО EA Group Holding
+Алматы, проспект Аль-Фараби, 17к4Б
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(103) Маркетолог-аналитик
+id(22) Advanced People Solutions
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(104) ИТ-Инженер
+id(65) Small, ТМ (Скиф Сауда, ТОО)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+более 6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(105) Супервайзер по отчетности
+id(66) ТОО PepsiCo Kazakhstan
+Алматы, проспект Абая, 109В
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(106) Linux Middleware/Devops engineer
+id(67) АО Банк Хоум Кредит, ДБ АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(107) Intern in Risk group (Consulting group)
+id(68) ТОО EY (Ernst & Young)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(108) Associate / Intern to Data Analytics (Almaty)
+id(69) PricewaterhouseCoopers
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Стажировка,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(109) Game Analyst
+id(70) MyTona
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(110) Инженер Инфраструктурной безопасности
+id(71) ТОО OPTIMUM Recruitment&Executive search
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(111) PHP Developer
+id(22) Advanced People Solutions
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(112) Senior C++ Developer (Gameplay)
+id(63) Playrix
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(113) Technical support specialist ( Instrument Support)
+id(72) EXANTE
+Алматы   
+от 1 000 EUR
+Remote job
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(114) Offensive security specialist
+id(71) ТОО OPTIMUM Recruitment&Executive search
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(115) Аналитик - макроэкономист
+id(51) АО Jusan Bank
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(116) Senior Engineering Manager
+id(63) Playrix
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(117) DevOps Еngineer
+id(38) Beeline, ТМ
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(118) Senior RPA developer
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы, улица Желтоксан, 115
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(119) QA Automation engineer
+id(73) ТОО Микрофинансовая организация KMF(КМФ)
+Алматы,Жибек Жолы, проспект Назарбаева, 50
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(120) GIS Analyst
+id(74) ТОО АтырауТехИнвест
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+No Resume
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(121) Data Engineer, Fintech Solutions
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(122) Разработчик / программист (SQL/анализ и обработка данных)
+id(29) Трошина Валентина
+Алматы   
+No Salary
+Remote job
+Not trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+Возможна подработка:сменами по 4-6 часов или по вечерам
+Возможно временное оформление: договор услуг, подряда, ГПХ, самозанятые, ИП
+
+-------------------
+
+-------------------
+
+id(123) Golang Developer
+id(22) Advanced People Solutions
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(124) C++ Backend Developer
+id(22) Advanced People Solutions
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(125) Full Stack Developer (Node.js+ React), Online Genealogy Service
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(126) QA Team Lead
+id(63) Playrix
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(127) Ведущий администратор систем IT сети (Группа маршрутизации ИТ систем в дата-центрах)
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(128) QA Automation engineer
+id(38) Beeline, ТМ
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(129) Ведущий специалист Департамента залогового обеспечения
+id(75) АО «Bank Freedom Finance Kazakhstan»
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(130) Инженер Linux
+id(76) АО ДБ АО Сбербанк
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(131) Ведущий инженер (мониторинг)
+id(76) АО ДБ АО Сбербанк
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(132) Эксперт (Администратор базы данных Oracle)
+id(76) АО ДБ АО Сбербанк
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(133) QA инженер (backend)
+id(21) Тинькофф
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+No Resume
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(134) Computer Vision Engineer
+id(77) ТОО Коркем Телеком
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(135) Senior risk modeling analyst
+id(73) ТОО Микрофинансовая организация KMF(КМФ)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(136) Infrastructure engineer
+id(77) ТОО Коркем Телеком
+Алматы   
+500 000 – 800 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(137) C++ разработчик (junior)
+id(77) ТОО Коркем Телеком
+Алматы   
+250 000 – 300 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(138) Руководитель дирекции по валидации моделей
+id(35) АО Банк ЦентрКредит
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(139) Web-программист
+id(78) ТОО КазИнфоТех АЦП
+Алматы,Москва, Наурызбайский район, микрорайон Калкаман-2, улица Байкена Ашимова, 211
+230 000 – 260 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(140) Senior BigData Engineer, Financial Software Solutions
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(141) Senior Big Data Developer, Communication Services
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(142) Инженер CDN (удалённая работа/remote work)
+id(34) ТОО УМНЫЕ ГОРОДА
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(143) Senior QA Engineer
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(144) Младший специалист в Блок Розничного Риска
+id(35) АО Банк ЦентрКредит
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(145) Ведущий инженер (Группа автоматизации технической отчетности и поддержки систем)
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы, проспект Гагарина, 272
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(146) Эксперт по отчетности (Data Office)
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы, улица Желтоксан, 115
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(147) PHP-разработчик
+id(79) ТОО TECHNICAL CAPABILITIES CIS
+Алматы   
+300 000 – 350 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+более 6 лет
+Частичная занятость,полный день
+Возможна подработка:сменами по 4-6 часов или по вечерам
+Возможно временное оформление: договор услуг, подряда, ГПХ, самозанятые, ИП
+
+-------------------
+
+-------------------
+
+id(148) Senior/Middle Developer C#
+id(31) ТОО Транспортный холдинг города Алматы
+Алматы, улица Сатпаева, 30/8
+от 650 000 KZT
+Not remote
+Trusted Employer
+not hr
+No Resume
+3–6 лет
+Полная занятость,гибкий график
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(149) Главный менеджер Управления развития Colvir Департамента Информационных Технологий
+id(61) АО Жилищный строительный сберегательный банк Отбасы банк
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(150) Эксперт (Функция оптимизации мониторинга и отчетности)
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы, проспект Гагарина, 272
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(151) Главный менеджер отдела прикладного администрирования (DevOps)
+id(80) Bank RBK, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(152) Team Lead Data Governance
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(153) PHP-разработчик
+id(17) Кселл, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(154) Старший инженер опорной IP сети
+id(17) Кселл, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(155) Senior DevOps (Azure) Engineer
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(156) Middle/Senior Go Developer
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(157) Cloud Platform Engineer, Smart Platform
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(158) DevOps Engineer в SuperApp
+id(17) Кселл, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(159) Продуктовый аналитик
+id(34) ТОО УМНЫЕ ГОРОДА
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(160) Associate/Senior Associate to Valuation and Data Analytics
+id(69) PricewaterhouseCoopers
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(161) Стажер JUMP: Make It Bright отдела по стратегическому планированию
+id(81) ТОО JTI Kazakhstan
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+не требуется
+Стажировка,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(162) Ведущий инженер PS Core (Дирекция эксплуатации сети, Алматы)
+id(38) Beeline, ТМ
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(163) Старший инженер оптимизации радиосети
+id(23) ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)
+Алматы, проспект Гагарина, 272
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(164) Middle Web QA Engineer
+id(40) Kolesa Group
+Алматы, улица Шевченко, 157Б
+850 000 – 1 550 000 KZT
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(165) Middle C++ Engineer, Wireless Solutions
+id(18) DataArt
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(166) Разработчик бизнес-процессов/Разработчик Atlassian
+id(40) Kolesa Group
+Алматы   
+250 000 – 700 000 KZT
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(167) Senior QA Automation
+id(42) Improvado
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(168) Embedded Software Engineer
+id(82) ТОО TELTONIKA (ТЕЛТОНИКА)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(169) Заместитель директора логистики по цифровизации
+id(65) Small, ТМ (Скиф Сауда, ТОО)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+более 6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(170) Этичный хакер / Penetration Tester (Senior)
+id(83) Центр анализа и расследования кибер атак
+Алматы   
+от 700 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(171) Senior/Middle strong Java разработчик
+id(67) АО Банк Хоум Кредит, ДБ АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(172) Middle DWH разработчик
+id(73) ТОО Микрофинансовая организация KMF(КМФ)
+Жибек Жолы,Алматы, проспект Назарбаева, 50
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(173) Data Developer (Snowflake), Stock Exchange
+id(18) DataArt
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(174) DevOps/SRE Engineer, Data Streaming Solutions
+id(18) DataArt
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(175) Low-Code Developer (SPO, Power Apps)
+id(58) ТОО KPMG
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(176) Migration Software Development and Support Engineer, Communication Services
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(177) Linux Engineer, Server Deployment Solution
+id(18) DataArt
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(178) Cloud Engineer, Online Retailer
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(179) Data Developer with Matillion Experience, Stock Exchange
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(180) DevOps Engineer (AWS, Kubernetes), Financial Analytics System
+id(18) DataArt
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(181) Middle Software Engineer Управление разработки КХД
+id(84) ТОО MAGNUM. Информационные технологии/Ақпараттық технологиялар
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(182) Frontend-Developer JavaScript / TypeScript (React / Vue)
+id(31) ТОО Транспортный холдинг города Алматы
+Алматы, улица Сатпаева, 30/8
+от 600 000 KZT
+Not remote
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,гибкий график
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(183) Intern/Business Analyst – IT Audit Group – Risk Advisory
+id(85) Deloitte, Caspian Region
+Абая,Алматы, проспект Аль-Фараби, 36
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(184) Middle+/Senior Data Scientist
+id(38) Beeline, ТМ
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+No Resume
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(185) Senior System Engineer (Admins Team)
+id(86) Semrush
+Алматы   
+от 3 300 USD
+Remote job
+Trusted Employer
+not hr
+Resume needed
+более 6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(186) Intern/Consultant 1 – Financial Risk Management – Risk Advisory
+id(85) Deloitte, Caspian Region
+Алматы,Абая, проспект Аль-Фараби, 36
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(187) Senior Consultant – Financial Risk Management – Risk Advisory
+id(85) Deloitte, Caspian Region
+Алматы,Абая, проспект Аль-Фараби, 36
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(188) Senior Backend developer (Remote)
+id(87) ООО РОДЖИИ ЕВРОПА
+Алматы   
+3 000 – 4 500 USD
+Remote job
+Trusted Employer
+not hr
+Resume needed
+более 6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(189) BI Consultant, Accounting Advisory Services, Consulting
+id(58) ТОО KPMG
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(190) Technical support engineer (2nd line)
+id(88) Weigandt-consulting
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+не требуется
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(191) Full-Stack Developer (Technology Consulting)
+id(58) ТОО KPMG
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(192) Technical Solutions Engineer (Almaty/Nur - Sultan)
+id(89) ТОО МЕДИАМОНКС КАЗАХСТАН
+Nur-Sultan (Astana), Saryarqa dańǵyly, 6
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(193) Старший аналитик в управление по риск инновациям
+id(67) АО Банк Хоум Кредит, ДБ АО
+Алматы, ул. Фурманова (угол ул. Хаджимукана), 248, БЦ "Сарканд"
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(194) DevOPS engineer (SRE)
+id(87) ООО РОДЖИИ ЕВРОПА
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,гибкий график
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(195) Programming Team Lead (С++)
+id(63) Playrix
+Алматы   
+No Salary
+Remote job
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(196) Главный тестировщик
+id(13) Евразийский банк, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(197) Специалист по поддержке корпоративных приложений
+id(68) ТОО EY (Ernst & Young)
+Алматы, проспект Аль-Фараби, 77/7
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(198) Руководитель направления коллекшн-скоринга/Soft Collection
+id(35) АО Банк ЦентрКредит
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(199) Ведущий менеджер Управления развития Colvir Департамента Информационных Технологий
+id(61) АО Жилищный строительный сберегательный банк Отбасы банк
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(200) Junior Back-end/Go Developer
+id(90) ТОО LEOPART CENTER
+Алматы, улица Джандарбекова, 128
+No Salary
+Not remote
+Trusted Employer
+not hr
+No Resume
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(201) Golang Developer
+id(27) АО Народный банк Казахстана
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+HR brand
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(202) Главный менеджер Управления розничных кредитных рисков
+id(91) АО Altyn Bank
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(203) Full Stack Web Разработчик
+id(92) ТОО One Corporated
+Байконур,Алматы, улица Досмухамедова, 89
+300 000 – 400 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(204) Эксперт в группу рисков (депртамент консалтинга)
+id(68) ТОО EY (Ernst & Young)
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(205) Full Stack Developer
+id(93) ТОО Школа Нового Поколения NGS
+Алматы, микрорайон Ерменсай
+600 000 – 750 000 KZT
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(206) Devops/Sysadmin
+id(94) ИП САДВАКАСОВ М. А
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(207) Администратор информационной системы
+id(95) АО Товарная биржа Alan
+Абая,Алматы, проспект Достык, 192/2
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(208) IT специалист по вопросам внедрения и сопровождения информационных систем
+id(96) Гос. корп. Республиканское государственное предприятие на праве хозяйственного ведения Казахский научный центр дерматологии и инфекционных заболеваний
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(209) Chief Marketing Officer
+id(97) ТОО Seiko Labs
+Алматы, проспект Назарбаева, 50
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(210) Менеджер/Преподаватель робототехники
+id(98) ТОО Международная Академия Робототехники
+Алматы, улица Сатпаева, 22
+160 000 – 320 000 KZT
+Not remote
+Trusted Employer
+not hr
+No Resume
+не требуется
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(211) Специалист технической поддержки
+id(99) ООО SIROCA
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(212) Веб-администратор
+id(100) АО КазНИИСА, АО
+Алматы   
+No Salary
+Not remote
+Trusted Employer
+not hr
+Resume needed
+3–6 лет
+Полная занятость,полный день
+No Part
+No Temp
+
+-------------------
+
+-------------------
+
+id(213) Front end/Full stack разработчик сайтов в Digital Agency
+id(101) ТОО GB Travel
+Алматы   
+200 000 – 300 000 KZT
+Remote job
+Trusted Employer
+not hr
+Resume needed
+1–3 года
+Частичная занятость,удаленная работа
+No Part
+No Temp
+
+-------------------
